@@ -1,8 +1,9 @@
-<h2>Hi, I'm Jaaz Espinoza</h2>
-- 🖥️ I’ve been coding in PHP for over 2 years
-- 👨‍💻 Check out my portfolio at [jaazespinoza.com](https://jaazespinoza.com/)
-- 🏗️ I’m learning Java and Web Assembly at the moment
-- 🏫 I'm currently pursuing a CS Degree at DePaul University. 
-- 𝕏 You can follow me on X <a href="https://twitter.com/jaazEspinoza">@jaazEspinoza</a>
+### Hi, I'm Jaaz Espinoza
+
+- 🖥️ I've been coding in PHP and JS primarily for over 2 years
+- 🏗️ I'm the owner of [jaazespinoza.com](https://jaazespinoza.com/)
+- 🦀 I’m learning Java and Web Assembly at the moment
+- 𝕏 You can follow me on Twitter [@jaazEspinoza](https://twitter.com/jaazEspinoza)
+- 🏫 I'm currently studying Computer Science at DePaul University
 
 
