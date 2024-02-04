@@ -1,5 +1,5 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://jaazespinoza.com/)
-<h1 align="center">Hi 👋, I'm Jaaz Espinoza</h1>
+<h1>Hi 👋, I'm Jaaz Espinoza</h1>
 
 - 🔭 I’m currently working on a [sports podcast website](https://lafieradeportiva.com/)
 
