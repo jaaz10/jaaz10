@@ -3,10 +3,10 @@
 
 - 🖥️ I’ve been coding in PHP for over 2 years
 
-- 🏗️ I’m currently learning Java and Web Assembly
-
 - 👨‍💻 Check out my portfolio at [jaazespinoza.com](https://jaazespinoza.com/)
+
+- 🏗️ I’m currently learning Java and Web Assembly
 
 - 𝕏 You can follow me on X <a href="https://twitter.com/jaazEspinoza">@jaazEspinoza</a>
 
-- 👨‍💻 Check out my portfolio at [jaazespinoza.com](https://jaazespinoza.com/)
+
