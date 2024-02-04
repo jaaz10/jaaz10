@@ -7,4 +7,4 @@
 
 - 👨‍💻 All of my projects are available at [jaazespinoza.com](https://jaazespinoza.com/)
 
-- 🐦 You can follow me on Twitter @jaazEspinoza
+- 𝕏 You can follow me on X <a href="https://twitter.com/jaazEspinoza">@jaazEspinoza</a>
