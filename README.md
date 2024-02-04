@@ -1,4 +1,4 @@
-# 🏄‍♂️ Jaaz Espinoza
+# 💽 Jaaz Espinoza
 
 **`IT Professional & Developer`**
 
