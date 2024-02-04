@@ -5,6 +5,6 @@
 
 - 🏗️ I’m currently learning Java and Web Assembly
 
-- 👨‍💻 All of my projects are available at [jaazespinoza.com](https://jaazespinoza.com/)
+- 👨‍💻 Check out my portfolio at [jaazespinoza.com](https://jaazespinoza.com/)
 
 - 𝕏 You can follow me on X <a href="https://twitter.com/jaazEspinoza">@jaazEspinoza</a>
