@@ -5,7 +5,9 @@
 
 - 👨‍💻 Check out my portfolio at [jaazespinoza.com](https://jaazespinoza.com/)
 
-- 🏗️ I’m currently learning Java and Web Assembly
+- 🏗️ I’m learning Java and Web Assembly at the moment
+
+- 🏫 I'm currently pursuing a CS Degree at DePaul University. 
 
 - 𝕏 You can follow me on X <a href="https://twitter.com/jaazEspinoza">@jaazEspinoza</a>
 
