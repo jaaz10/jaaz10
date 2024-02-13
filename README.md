@@ -2,7 +2,7 @@
 
 **`IT Professional & Web Developer`**
 
-I've been delving into the Web Assembly and Java and I really like working with Wordpress and React!
+I like Wordpress and PHP and I'm currently learning Java and Web Assembly! 
 
 
 ### 🧰 Languages and Tools
