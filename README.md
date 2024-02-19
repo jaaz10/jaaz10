@@ -2,7 +2,7 @@
 
 **`IT Professional & Aspiring Web Developer`**
 
-I have school and self-study experience working with the LAMP stack and I'm currently learning Java, Web Assembly and Drupal CMS!!
+I have school and self-study experience working with the LAMP stack and I'm currently learning Java, Web Assembly and Drupal CMS!!!
 
 
 ### 🧰 Languages and Tools
