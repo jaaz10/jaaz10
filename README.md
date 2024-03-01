@@ -2,7 +2,7 @@
 
 **`Web Developer & IT Professional`**
 
-I have experience working with the LAMP stack and I'm currently learning Java, Web Assembly and Drupal CMS!!!
+I have experience working with the LAMP stack and I'm currently learning Java, Web Assembly and Drupal CMS!!!!
 
 
 ### 🧰 Languages and Tools
