@@ -1,9 +1,4 @@
-# 💽 Jaaz Espinoza
-
-**`Web Developer`**
-
-I like creating responsive websites and mass browser compatible email templates.
-
+# 💽 Jaaz Espinoza - Web Dev
 
 ### 🧰 Languages and Tools
 
