@@ -1,4 +1,4 @@
-# 💽 Jaaz Espinoza - Web Dev
+# 💽 Jaaz Espinoza - Web Developer
 
 ### 🧰 Languages and Tools
 
