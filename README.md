@@ -1,4 +1,4 @@
-# 💽 Jaaz Espinoza - Web Dev Enthusiast | Tech Support Lvl 1
+# 💽 Jaaz Espinoza - Web Dev Enthusiast | Tech Support
 
 ### 🧰 Languages and Tools
 
