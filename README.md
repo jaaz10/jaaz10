@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 Computer Science student at DePaul University
-💻 Desktop Support Specialist with experience in IT support and data center tech
+💻 IT Network Tech with experience in IT support and web development 
 🌱 Always learning and exploring new technologies
 
 ## Skills
@@ -12,10 +12,10 @@
 - Web Development
 
 ## Current Focus
-🔭 I'm currently working on enhancing my skills in [specific area or project]
-🌟 Passionate about [your interests, e.g., cybersecurity, cloud computing, etc.]
+🔭 I'm currently working on enhancing my skills in linux and data structures and algorithms.
+🌟 Passionate about learning DevOps
 
 ## Connect With Me
-[Include links to your LinkedIn, portfolio website, or other professional profiles]
+www.jaazespinoza.com
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
