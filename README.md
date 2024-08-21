@@ -14,8 +14,6 @@
 ## Current Focus
 🔭 I'm currently working on enhancing my skills in linux and data structures and algorithms.
 🌟 Passionate about getting better Linux!
-
 ## Connect With Me
 www.jaazespinoza.com
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
