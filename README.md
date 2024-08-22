@@ -1,7 +1,7 @@
 # Hi there, I'm Jaaz Espinoza 👋
 
 ## About Me
-🎓 Computer Science student at DePaul University
+🎓 Computer Science student at DePaul University (DU)
 
 💻 IT Network Tech at S.T.O
 
@@ -20,9 +20,9 @@
 - Network Management
 
 ## Current Focus
-🔭 I'm currently enhancing my skills in Linux and data structures and algorithms (DSA)
+🔭 Wrapping up my final year at DU. Taking DSA II & 3 InfoSec classes for minor.
 
-🌟 Passionate about mastering DSAs and expanding my Linux capabilities
+🌟 Passionate about completing my degree and expanding my dev/it/sysadmin/networking capabilities
 
 ## Projects
 - [Clearing Vision](https://github.com/jaazespinoza/clearing-vision) - Optician website
