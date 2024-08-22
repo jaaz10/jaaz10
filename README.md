@@ -2,7 +2,9 @@
 
 ## About Me
 🎓 Computer Science student at DePaul University
+
 💻 Help Desk Tech at Realnets
+
 🌱 Always learning and exploring new technologies
 
 ## Professional Experience
