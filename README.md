@@ -20,7 +20,7 @@
 - Network Management
 
 ## Current Focus
-🔭 Wrapping up my final year at DU. Taking DSA II & 3 InfoSec classes for minor.
+🔭 Wrapping up my final year at DU starting this Fall. Taking Data Structures and Algorithms II & 3 InfoSec classes for minor.
 
 🌟 Passionate about completing my degree and expanding my dev/it/sysadmin/networking capabilities
 
