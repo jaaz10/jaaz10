@@ -21,6 +21,7 @@
 
 ## Current Focus
 🔭 I'm currently enhancing my skills in Linux and data structures and algorithms (DSA)
+
 🌟 Passionate about mastering DSAs and expanding my Linux capabilities
 
 ## Projects
