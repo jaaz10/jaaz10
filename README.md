@@ -3,24 +3,25 @@
 ## About Me
 🎓 Computer Science student at DePaul University
 
-💻 Help Desk Tech at Realnets
+💻 IT Network Tech at S.T.O
 
 🌱 Always learning and exploring new technologies
 
 ## Professional Experience
-- Help Desk Tech at Realnets (2023 - Present)
-- Data Center Field Tech at TSP (2022 - 2023)
-- Imaging & Deployment Tech at SDI Presence (2022 - 2023)
+- IT Network Tech at S.T.O (2024 - Present)
+- Help Desk Tech at Realnets (2023 - 2024)
+- Data Center Field Tech at Technology Service Professionals (2022 - 2023)
+- Image & Deployment Tech at SDI Presence (2022 - 2023)
 
 ## Skills
-- IT Support & Troubleshooting
-- Network Administration
-- Server Management
 - Web Development
+- IT Support & Troubleshooting
+- System Administration
+- Network Management
 
 ## Current Focus
-🔭 I'm currently enhancing my skills in Linux and data structures and algorithms
-🌟 Passionate about mastering Linux and expanding my development capabilities
+🔭 I'm currently enhancing my skills in Linux and data structures and algorithms (DSA)
+🌟 Passionate about mastering DSAs and expanding my Linux capabilities
 
 ## Projects
 - [Clearing Vision](https://github.com/jaazespinoza/clearing-vision) - Optician website
