@@ -22,7 +22,7 @@
 ## Current Focus
 🔭 Wrapping up my final year at DU starting this Fall. Taking Data Structures and Algorithms II & 3 InfoSec classes for my Minor.
 
-🌟 Passionate about completing my degree and expanding my dev /IT /sysadmin /networking capabilities.
+🌟 Passionate about completing my degree and expanding my dev / IT / sysadmin / networking capabilities.
 
 ## Projects
 - [Clearing Vision](https://github.com/jaazespinoza/clearing-vision) - Optician website
