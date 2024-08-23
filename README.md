@@ -20,14 +20,14 @@
 - Network Management
 
 ## Current Focus
-🔭 Wrapping up my final year at DU starting this Fall. Taking Data Structures and Algorithms II & 3 InfoSec classes for minor.
+🔭 Wrapping up my final year at DU starting this Fall. Taking Data Structures and Algorithms II & 3 InfoSec classes for my Minor.
 
-🌟 Passionate about completing my degree and expanding my dev/it/sysadmin/networking capabilities
+🌟 Passionate about completing my degree and expanding my dev /it /sysadmin /networking capabilities.
 
 ## Projects
 - [Clearing Vision](https://github.com/jaazespinoza/clearing-vision) - Optician website
-- [Joy Church Community Center](https://github.com/jaazespinoza/joy-church-cc) - Community center website
-- [Retas Chicago](https://github.com/jaazespinoza/retas-chicago) - Pickup soccer game finder
+- [Joy Church Community Center](https://github.com/jaazespinoza/joy-church-cc) - Community center website - Under construction!
+- [Kickoff App](https://github.com/jaazespinoza/kickoff-app) - Pickup soccer game finder - Under construction!
 
 ## Connect With Me
 - [Personal Website](https://jaazespinoza.com)
