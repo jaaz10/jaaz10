@@ -3,12 +3,12 @@
 ## About Me
 🎓 Computer Science student at DePaul University (DU)
 
-💻 IT Network Tech at the STO
+💻 IT Network Tech at STO
 
 🌱 Always learning and exploring new technologies
 
 ## Professional Experience
-- IT Network Tech at the STO  (2024 - Present)
+- IT Network Tech at STO  (2024 - Present)
 - Help Desk Tech at Realnets (2023 - 2024)
 - Data Center Field Tech at Technology Service Professionals (2022 - 2023)
 - Image & Deployment Tech at SDI Presence (2022 - 2023)
