@@ -1,7 +1,7 @@
 # Hi there, I'm Jaaz Espinoza 👋
 
 ## About Me
-🎓 Computer Science student at DePaul University (DU)
+🎓 Computer Science student at DePaul University
 
 💻 IT Network Tech at STO
 
