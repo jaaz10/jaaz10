@@ -20,7 +20,7 @@
 - Network Management
 
 ## Current Focus
-🔭 Wrapping up my final year at DU starting this Fall. Taking Data Structures and Algorithms II & 3 InfoSys classes for my Minor.
+🔭 Wrapping up my final year at DePaul starting this Fall. Taking Data Structures and Algorithms II & 2 InfoSys classes for my Minor.
 
 🌟 Passionate about completing my degree and expanding my dev / IT / sysadmin / networking capabilities.
 
