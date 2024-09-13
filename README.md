@@ -14,11 +14,44 @@
 - Image & Deployment Tech at SDI Presence (2022 - 2023)
 
 ## Skills
-- Web Development
-- IT Support & Troubleshooting
-- System Administration
-- Network Management
 
+🌐 Web Development
+   - HTML, CSS, JavaScript
+   - React, Vue.js
+   - Node.js, Express
+   - PHP, Laravel
+   - RESTful APIs
+
+💻 IT Support & Troubleshooting
+   - Hardware diagnostics
+   - Software installation and configuration
+   - User support and training
+
+🖥️ System Administration
+   - Linux (Ubuntu, CentOS)
+   - Windows Server
+   - Bash scripting
+   - Virtualization (VMware, VirtualBox)
+
+🔒 Network Management
+   - TCP/IP, DNS, DHCP
+   - Firewalls and security
+   - VPN configuration
+
+🛠️ DevOps & Tools
+   - Git, GitHub
+   - Docker
+   - Jenkins
+   - AWS basics
+
+🗃️ Databases
+   - MySQL, PostgreSQL
+   - MongoDB
+
+🔧 Other
+   - Agile methodologies
+   - Technical documentation
+   - Troubleshooting and problem-solving
 ## Current Focus
 🔭 Wrapping up my final year at DePaul starting this Fall. Taking Data Structures and Algorithms II & 2 InfoSys classes for my Minor.
 
