@@ -3,7 +3,7 @@
 ## About Me
 🎓 Computer Science student at DePaul University
 
-💻 IT Network Tech at STO
+💻 IT Network Tech 
 
 🌱 Always learning and exploring new technologies
 
