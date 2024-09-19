@@ -3,7 +3,7 @@
 ## About Me
 🎓 Computer Science student at DePaul University
 
-💻 IT Network Tech 
+💻 IT Network Support Tech 
 
 🌱 Always learning and exploring new technologies
 
