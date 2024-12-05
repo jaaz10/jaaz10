@@ -15,9 +15,9 @@ I'm Jaaz - by day I work in IT, and by night I'm pursuing my CS degree. When I'm
 - Cloud Services & Virtualization
 
 ## Recent Projects
-- 🏥 [Clearing Vision](https://github.com/yourusername/clearing-vision) - Healthcare Provider Website
-- 🐕 [MapleRescue](https://github.com/yourusername/maplerescue) - Dog Foster Management System
-- 🔄 [Onboardly](https://github.com/yourusername/onboardly) - IT Automation Tool
+- 🏥 [Clearing Vision](https://github.com/yourusername/clearing-vision) - Optician Provider Website
+- 🐕 [DogFoster](https://github.com/yourusername/dogfoster) - Dog Foster Billboard 
+- 🔄 [Como Se Dice](https://github.com/yourusername/onboardly) - Spanish-language app
 
 ## Let's Connect
 - 🌐 [Website](https://jaazespinoza.com)
