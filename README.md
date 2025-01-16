@@ -12,7 +12,6 @@ I'm Jaaz - by day I work in IT, and by night I'm pursuing my CS degree. When I'm
 - System Administration & Networking
 - Python & Web Development 
 - Security Tools & Best Practices
-- Cloud Services & Virtualization
 
 ## Recent Projects
 - 🏥 [Clearing Vision](https://github.com/yourusername/clearing-vision) - Optician Provider Website
