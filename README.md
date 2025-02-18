@@ -10,13 +10,8 @@ I'm Jaaz - by day I work in IT, and by night I'm pursuing my CS degree. When I'm
 
 ## Tech Stack
 - System Administration & Networking
-- Python & Web Development 
+- Web Development 
 - Security Tools & Best Practices
-
-## Recent Projects
-- 🏥 [Clearing Vision](https://github.com/yourusername/clearing-vision) - Optician Provider Website
-- 🐕 [DogFoster](https://github.com/yourusername/dogfoster) - Dog Foster Billboard 
-- 🔄 [Como Se Dice](https://github.com/yourusername/onboardly) - Spanish-language app
 
 ## Let's Connect
 - 🌐 [Website](https://jaazespinoza.com)
