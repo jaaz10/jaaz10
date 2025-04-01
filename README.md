@@ -9,7 +9,8 @@ I'm Jaaz - by day I work in IT, and by night I'm pursuing my CS degree. When I'm
 - 🔧 Always tinkering with config files and side projects
 
 ## Tech Stack
-- System Administration 
+- System Administration
+- GNU/Linux
 - Web Development 
 
 ## Let's Connect
