@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I'm Jaaz - by day I work in IT, and by night I'm pursuing my CS degree. When I'm not knee-deep in schoolwork or helping users fix their IT headaches, you can find me either messing with Proxmox or coding up some new projects.
+I'm Jaaz - by day I work in IT, and by night I'm pursuing my CS degree. When I'm not knee-deep in schoolwork or helping users fix their IT headaches, you can find me either messing with my config files or coding up some new projects.
 
 ## Current Focus
 - 🎓 Computer Science student passionate about web dev and it stuff
