@@ -4,7 +4,7 @@
 I'm Jaaz - by day I work in IT, and by night I'm pursuing my CS degree. When I'm not knee-deep in schoolwork or helping users fix their IT headaches, you can find me either messing with my config files or coding up some new projects.
 
 ## Current Focus
-- 🎓 Computer Science student passionate about web dev and IT stuff
+- 🎓 Computer Science student passionate about Web Dev and IT stuff
 - 💼 IT professional exploring the intersections of system admin and development
 - 🔧 Always tinkering with config files and side projects
 
