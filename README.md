@@ -10,7 +10,7 @@ I'm Jaaz - by day I work in IT, and by night I'm pursuing my CS degree. When I'm
 
 ## Tech Stack
 - System Administration
-- GNU/Linux
+- GNU/ Linux
 - Web Development 
 
 ## Let's Connect
