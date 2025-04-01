@@ -6,7 +6,7 @@ I'm Jaaz - by day I work in IT, and by night I'm pursuing my CS degree. When I'm
 ## Current Focus
 - 🎓 Computer Science student passionate about web dev and it stuff
 - 💼 IT professional exploring the intersections of system admin and development
-- 🔧 Always tinkering with home lab and side projects
+- 🔧 Always tinkering with config files and side projects
 
 ## Tech Stack
 - System Administration 
