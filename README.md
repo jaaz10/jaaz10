@@ -5,11 +5,11 @@ I'm Jaaz - by day I work in IT, and by night I'm pursuing my CS degree. When I'm
 
 ## Current Focus
 - 🎓 Computer Science student passionate about Web Dev and IT stuff
-- 💼 IT professional exploring the intersections of system admin and development
+- 💼 IT professional exploring the intersections of system admin and web/app development
 - 🔧 Always tinkering with config files and side projects
 
 ## Tech Stack
-- Web Development 
+- Web/App Development 
 - GNU/ Linux
 - System Administration
 
